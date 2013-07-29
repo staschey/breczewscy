@@ -4,6 +4,7 @@ body, h1, p, a {
 .content {
   max-width: 860px;
   margin: auto;
+  margin-bottom: 2em;
 }
 
 .header-image {
@@ -12,8 +13,13 @@ body, h1, p, a {
 
 .welcome {
   font-size: 1.4em;
+  border-bottom: 1px solid black;
 }
 
 .account {
   color: black;
+}
+
+.presents section {
+  border-bottom: 1px solid black;
 }
