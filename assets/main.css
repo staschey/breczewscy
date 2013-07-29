@@ -13,7 +13,7 @@ body, h1, p, a {
 
 .welcome {
   font-size: 1.4em;
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.3);
   padding-bottom: 20px;
 }
 
@@ -22,7 +22,7 @@ body, h1, p, a {
 }
 
 .presents section {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.3);
   padding-bottom: .7em;
 }
 
