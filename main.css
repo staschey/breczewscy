@@ -32,10 +32,10 @@ body, h1, p, a {
 
 .presents section .price {
   font-size: 1.4em;
-  margin-top: 20px;
   text-align: right;
 }
 
 .presents section .info {
   text-align: right;
+  margin-top: 20px;
 }
