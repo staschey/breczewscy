@@ -22,6 +22,7 @@ body, h1, p, a {
 
 .presents section {
   border-bottom: 1px solid black;
+  padding-bottom: .7em;
 }
 
 .presents section h1 {
@@ -35,6 +36,6 @@ body, h1, p, a {
   text-align: right;
 }
 
-.presents section .btn-group {
+.presents section .info {
   text-align: right;
 }
