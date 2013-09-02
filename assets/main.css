@@ -13,8 +13,6 @@ body, h1, p, a {
 
 .welcome {
   font-size: 1.4em;
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.3);
-  padding-bottom: 20px;
 }
 
 .account {
